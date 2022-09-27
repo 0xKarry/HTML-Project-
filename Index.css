@@ -1,0 +1,39 @@
+html{
+  background-image: url(images/pexels-hasan-albari-1229861.jpg);
+}
+
+header{
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+   color: aliceblue;
+}
+
+nav a{
+  padding-left: 25px;
+  padding-right: 25px;
+  color: aliceblue;
+}
+
+p{
+  color: aliceblue;
+  text-align: start;
+  padding: 20px;
+  }
+  
+.div{
+  color: aliceblue;
+  text-align: center;
+}
+
+  div li{
+    color: aliceblue;
+    
+  }
+
+  .p{
+    color: aliceblue;
+    padding: 18px;
+  }
